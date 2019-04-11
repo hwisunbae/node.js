@@ -1,0 +1,9 @@
+versioning;
+specifying what version of a set of code this is
+
+major.minor.patch
+ex. 1.7.2
+patch -> some bugs were fixed. your code will work fine
+minor -> some new features were added. your code will work fine
+major -> big changes. your code will break (maybe)
+

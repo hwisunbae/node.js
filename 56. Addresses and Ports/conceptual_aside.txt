@@ -1,0 +1,5 @@
+port;
+once a computer recieves a packet, how it knows what program to send it to.
+
+when a program is setup on  the operating system to receive packets from a particular port, it is said that program is 'listening' to that port.
+

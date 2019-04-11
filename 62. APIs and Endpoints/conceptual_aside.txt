@@ -1,0 +1,8 @@
+APIS and endpoints
+
+API;
+a set of tools for building a software applicaton.
+stands for application programming interface
+
+ENDPOINT;
+one url in a web API

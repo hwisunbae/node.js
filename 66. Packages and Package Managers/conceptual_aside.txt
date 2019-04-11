@@ -1,0 +1,8 @@
+package ;
+code that is managed and maintained with a package management system.
+
+package management system;
+software that automates installing and updating packages.
+
+dependency ;
+code that another set of code depneds on to function

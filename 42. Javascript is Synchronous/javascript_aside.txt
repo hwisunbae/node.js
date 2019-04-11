@@ -1,0 +1,10 @@
+asynchronus:
+more than one process
+runing simultaneously
+
+v8 runs synchrous:
+one process executing at a time
+
+javascript is synchronous;
+nodejs is asynchronous
+

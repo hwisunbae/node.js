@@ -1,0 +1,17 @@
+v8, javascript -> syn
+
+v8
+libuv : 
+connects to OS
+has event loop
+
+event will get place in the queue
+it runs the callback that was meant to be run
+
+event driven non-blocking i/o in v8 javascript
+ex; opening files, connecting databases
+
+non-blocking :
+doing other things without stoping your programming from running
+
+uv_run function in libuv github repo

@@ -1,0 +1,7 @@
+HTTP;
+a set of rules ( and a format) for data being transerred on the web
+'hyperText transfer protocol'
+
+MIME type;
+a standard for specifying the type of data being sent
+stands for 'multipurpose internet mail extensions'

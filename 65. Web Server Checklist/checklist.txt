@@ -1,0 +1,26 @@
+1. 
+better ways to organize our code into reusable pieces
+2.
+ways to deal with files
+---
+syn and asyn by call-back run
+buffers ES6 buffers
+ability to work with binary data
+3.
+ways to deal with databaes
+---
+dealing with chunck at a time
+TCP/IP
+mesg sent back 
+HTTP
+receive an HTTP req/res
+4.
+the ability to communicate over the internet
+---
+free to use 
+open source ecosystem 
+NPM
+5.
+the ability to accept requests and send responses ( in the standard format )
+6.
+a ways to deal with work that takes a long time

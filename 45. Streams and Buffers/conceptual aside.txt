@@ -1,0 +1,8 @@
+buffer:
+a temporary holding spot fro data being moved from one place to another
+spot for memory
+
+gather some data, and moving along
+
+stream:
+a sequence of data made available over time

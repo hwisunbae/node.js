@@ -1,0 +1,10 @@
+binary data : data stroed in binary (sets of 1s and 0s)
+
+character set:
+a representation of chracters as numbers
+
+character encoding:
+how characters are stored in binary
+
+character set - > character encoding
+
